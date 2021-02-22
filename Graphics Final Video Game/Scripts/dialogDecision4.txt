@@ -1,0 +1,9 @@
+John: "He’s a worker for animal research and control ARC, what could have done this?"
+John: "These markings on his neck, they don't look like human fingers did this."
+
+A frightened scream echoes in the distance.
+
+John: "That sounded like the kid, they’re in trouble!"
+John: "Darn, with all the echoes I can’t tell if that came from the cars or the warehouse!"
+
+CHOOSE

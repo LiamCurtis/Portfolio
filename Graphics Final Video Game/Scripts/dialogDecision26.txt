@@ -1,0 +1,7 @@
+John runs into the container and attempts to close the door behind him to hide.
+The creature slams into the door behind him and the door rebounds.
+Prying the door open, the creature screeches and attacks.
+
+John Died
+
+GAME OVER

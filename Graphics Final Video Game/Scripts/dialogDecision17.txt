@@ -1,0 +1,11 @@
+John knocks on the door to attempt getting a response.
+
+John: "Hello? Anyone home?"
+
+The knocking attracts the attention of the monster.
+As it begins hunting, it lets out a loud, high-pitched screech.
+Seeing John from the nearby lot, the creature breaks through the nearby window and attacks him.
+
+John Died
+
+GAME OVER
